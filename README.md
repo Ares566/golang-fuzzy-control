@@ -1,6 +1,6 @@
 # Fuzzy control system on Go
 
-##Fuzzy controller implementation in Golang
+## Fuzzy controller implementation in Golang
 
 See more at:
 
